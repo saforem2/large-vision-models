@@ -1,3 +1,9 @@
+# User added
+data/*
+*data/*
+src/lvm/data/*
+**vit_jax_logs**
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
